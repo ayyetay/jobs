@@ -4,7 +4,7 @@ We are a young and creative start-up from Munich, currently working on an app th
 
 ## What we do
 
-Mylivn is a lifestyle platform that connects people around the world. Anyone, anywhere, is able to see current posts, stories, products to buy, related content and more, all readily available by current location or specific interests, allowing an insight into what’s going on around you.
+Mylivn is a social lifestyle platform that connects people around the world. Anyone, anywhere, is able to see current posts, stories, products to buy, related content and more, all readily available by current location or specific interests, allowing an insight into what’s going on around you.
 
 
 Mylivn is seeking to hire excited and motivated team members that are willing to share their expertise and push their capabilities to the next level.
